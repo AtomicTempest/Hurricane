@@ -1,0 +1,14 @@
+{
+  "name": "Hurricane",
+  "version": "1.0.0",
+  "description": "A simple Discord bot",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AtomicTempest",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
